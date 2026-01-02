@@ -116,7 +116,7 @@ public class zeus : MonoBehaviour
     IEnumerator reset(){
         can = false;
         this.gameObject.GetComponent<SpriteRenderer>().sprite = notready;
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(0.5f);
         can = true;
         this.gameObject.GetComponent<SpriteRenderer>().sprite = ready;
     }
