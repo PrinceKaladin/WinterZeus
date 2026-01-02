@@ -1,0 +1,9 @@
+com.WinterZeusCorp.WinterZeus
+Winter Zeus
+
+password: winter
+alias: winter
+alias-password: winter
+
+https://docs.google.com/document/d/1Jm8C31jSe1QP4QUD_5yJukaJ_DhGJCfCbLZ41HXQgD8/edit?usp=sharing
+https://www.figma.com/design/1VaJhV3vrfkfAOSqZifs6R/winter-zeus?node-id=0-1&p=f&t=DLR9vWfJGOpiw1zT-0
